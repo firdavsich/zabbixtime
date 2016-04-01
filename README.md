@@ -1,5 +1,5 @@
-## zabbixtime
-#sum problem duration 
+# zabbixtime
+## sum problem duration 
 
 Usage: 
 ``` chmod +x get_dur.sh```
