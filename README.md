@@ -1,2 +1,2 @@
 # zabbixtime
-summ problem duration 
+sum problem duration 
