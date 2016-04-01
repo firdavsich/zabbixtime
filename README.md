@@ -1,0 +1,2 @@
+# zabbixtime
+summ problem duration 
